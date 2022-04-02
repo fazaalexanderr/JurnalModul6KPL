@@ -1,0 +1,39 @@
+{
+    "members": [
+        {
+            "firstName": "Faza",
+            "lastName": "Riawan",
+            "gender": "male",
+            "age": 19,
+            "nim": "1302204062"
+        },
+        {
+            "firstName": "Baso",
+            "lastName": "Arif",
+            "gender": "male",
+            "age": 19,
+            "nim": "1302204048"
+        },
+        {
+            "firstName": "Rafi",
+            "lastName": "Ridel",
+            "gender": "male",
+            "age": 19,
+            "nim": "1302204110"
+        },
+        {
+            "firstName": "Ricky",
+            "lastName": "Rohaendi",
+            "gender": "male",
+            "age": 20,
+            "nim": "1302200007"
+        },
+        {
+            "firstName": "Muhammad",
+            "lastName": "Khomeini",
+            "gender": "male",
+            "age": 21,
+            "nim": "1302190039"
+        }
+    ]
+}
