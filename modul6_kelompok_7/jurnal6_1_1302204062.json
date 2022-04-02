@@ -1,0 +1,15 @@
+{
+   "firstName": "Faza",
+   "lastName": "Riawan",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sorogenen",
+       "city": "Surakarta",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2E4", "name": "Basis Data" }
+   ]
+}

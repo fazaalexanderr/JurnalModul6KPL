@@ -6,7 +6,8 @@ namespace modul6_kelompok_7
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DataMahasiswa1302204062 faza = new DataMahasiswa1302204062();
+            faza.ReadJSON();
         }
     }
 }
